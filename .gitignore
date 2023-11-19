@@ -1,4 +1,4 @@
 .vscode
 settings.json
-.gitignore
 .git.bfg-report
+.DS_Store
