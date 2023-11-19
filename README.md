@@ -37,3 +37,4 @@ There are two ways to do this:
 
 * Start `git bash` and navigate to the folder of the challenge you are working in with the command `cd`. Run the python script from the command line afterwards.
 * Run the script from VS Code. This will run the script from the folder VS code is openened in. Most of the time this will be the wrong folder! You can circumvent this by changing the folder in the terminal after running the script using `cd` and then running the script again.
+# challenges-Stephanie0643
